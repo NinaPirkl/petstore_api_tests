@@ -1,0 +1,29 @@
+# Ignore target directory where Maven generates the build files
+/target/
+
+# Ignore all .log files
+*.log
+
+# Ignore .class files
+*.class
+
+# Ignore .jar files
+*.jar
+
+# Ignore Eclipse IDE specific files
+/.project
+/.classpath
+/.settings/
+
+# Ignore IDE specific files (for example, IntelliJ IDEA)
+.idea/
+*.iml
+
+# Ignore Maven wrapper files
+.mvn/
+.mvn/wrapper/
+
+# Ignore any OS-specific files
+.DS_Store
+Thumbs.db
+
